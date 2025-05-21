@@ -9,8 +9,6 @@ A basic React frontend project demonstrating:
 - Smooth and clean UI/UX
 
 🔗 **Live Demo**: (https://6mtdky-3000.csb.app)  
-🧩 **View on CodeSandbox**: (https://codesandbox.io/s/6mtdky)
-
 ---
 
 ## ✨ Features
