@@ -28,6 +28,7 @@
     "eject": {
       "name": "eject",
       "command": "pnpm eject"
+      
     }
   }
 }
